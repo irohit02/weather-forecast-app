@@ -14,7 +14,7 @@ A simple web application that displays real-time weather data for any city using
 
 ## Live Preview
 
-[👉 Try it Here](https://irohit02.netlify.app)
+[Link Here](https://irohit02.netlify.app)
 
 ---
 
